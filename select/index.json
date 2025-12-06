@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "ハルカ",
+  "base_artist": "YOASOBI",
+  "createdAt": "2025-12-06T07:39:15.736125Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハルカ",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/01_ハルカ_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハルカ",
+      "artist": "Scandal",
+      "has_synced": true,
+      "path": "select/02_ハルカ_Scandal.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハルカ",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/03_ハルカ_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハルカ",
+      "artist": "FTISLAND",
+      "has_synced": true,
+      "path": "select/04_ハルカ_FTISLAND.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハルカ",
+      "artist": "SCANDAL",
+      "has_synced": false,
+      "path": "select/05_ハルカ_SCANDAL.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ハルカ",
+      "artist": "Ayase Feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/06_ハルカ_Ayase_Feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ハルカ",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/07_ハルカ_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ハルカ",
+      "artist": "初音ミク",
+      "has_synced": true,
+      "path": "select/08_ハルカ_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ハルカ",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/09_ハルカ_Ayase.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ハルカ",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/10_ハルカ_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ハルカ",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/11_ハルカ_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ハルカ (Haruka)",
+      "artist": "FTISLAND",
+      "has_synced": true,
+      "path": "select/12_ハルカ_(Haruka)_FTISLAND.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ハルカ (初音ミク Ver.)",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/13_ハルカ_(初音ミク_Ver.)_Ayase.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハルカ",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_ハルカ_YOASOBI.txt"
+    }
+  ]
+}
